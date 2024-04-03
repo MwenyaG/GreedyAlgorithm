@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1636720934 source:d:\year 2\semester 1\algorithm analysis and design\assignment\quick sort algorithm\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<chrono>
+
+1639038712 source:c:\users\user\onedrive\desktop\aad\mwenya muyeba swe2009964\quick sort algorithm\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
